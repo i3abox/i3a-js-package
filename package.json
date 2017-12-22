@@ -1,5 +1,5 @@
 {
-  "name": "i3a-package",
+  "name": "i3a-js-package",
   "version": "1.0.0",
   "description": "i3a js package",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/overnic/i3a-package.git"
+    "url": "git+https://github.com/overnic/i3a-js-package.git"
   },
   "keywords": [
     "i3a"
@@ -16,7 +16,7 @@
   "author": "overnick",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/overnic/i3a-package/issues"
+    "url": "https://github.com/overnic/i3a-js-package/issues"
   },
-  "homepage": "https://github.com/overnic/i3a-package#readme"
+  "homepage": "https://github.com/overnic/i3a-js-package#readme"
 }
