@@ -1,0 +1,22 @@
+{
+  "name": "i3a-package",
+  "version": "1.0.0",
+  "description": "i3a js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overnic/i3a-package.git"
+  },
+  "keywords": [
+    "i3a"
+  ],
+  "author": "overnick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overnic/i3a-package/issues"
+  },
+  "homepage": "https://github.com/overnic/i3a-package#readme"
+}
